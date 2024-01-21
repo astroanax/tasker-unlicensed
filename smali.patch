@@ -1,0 +1,18 @@
+diff --git a/smali_classes2/s9/m.smali b/smali_classes2/s9/m.smali
+index 47bad72..ba54fff 100644
+--- a/smali_classes2/s9/m.smali
++++ b/smali_classes2/s9/m.smali
+@@ -99,11 +99,11 @@
+ 
+     .line 39
+     .line 40
+-    if-eq p1, v1, :cond_4
++    if-eq p1, v2, :cond_4
+ 
+     .line 41
+     .line 42
+-    if-eq p1, v0, :cond_3
++    if-eq p1, v2, :cond_3
+ 
+     .line 43
+     .line 44
