@@ -1,10 +1,11 @@
 # tasker-unlicensed
-Patch to remove the license checking mechanism from [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+Patch to bypass the license checking mechanism in [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+
+With this patch, you can use the Tasker app for free.
 
 DISCLAIMER - ONLY FOR eDuCaTiOnAl PURPOSES 🥰 !1!1!1
 
 Working as of version 6.2.22
-With this patch, you can use the Tasker app for free.
 
 1. Download the apk from a trusted place such as APKMirror, or from the [developer's website](https://tasker.joaoapps.com/download.html) directly
 2. Use [apktool](https://apktool.org) to disassemble the apk with `apktool d Tasker.X.Y.ZZ.apk` and `cd Tasker.X.Y.ZZ/`
